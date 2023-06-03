@@ -12,3 +12,10 @@ Es necesario cambiar la variable "Peripheral Egress?" a "Many", ya que el laberi
 
 ## 3. Viajero (Aun en desarrollo)
 Usando el [Algoritmo A*](https://es.wikipedia.org/wiki/Algoritmo_de_búsqueda_A*), resolver el [problema del agente viajero](https://es.wikipedia.org/wiki/Problema_del_viajante).
+
+Siendo honesto... no estoy satisfecho con el resultado pero no quiero invertir mas tiempo en este problema
+
+## 4. Profundidad y amplitud
+Usando los algoritmos [Primero en profundidad](http://163.10.22.82/OAS/recorrido_grafos/dfs__recorrido_en_profundidad.html) y [Primero en amplitud](http://163.10.22.82/OAS/recorrido_grafos/bfs__recorrido_en_amplitud.html), resolver los problemas [Juego del 15](https://es.wikipedia.org/wiki/Juego_del_15) y el anteriormente resuelto [El problema del granjero](https://es.wikipedia.org/wiki/Acertijo_del_lobo,_la_cabra_y_la_col).
+
+Cada archivo puede ejecutar ambos programas, solo seguir las instrucciones dentro del mismo
